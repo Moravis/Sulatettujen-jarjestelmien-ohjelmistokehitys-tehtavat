@@ -3,7 +3,7 @@
 // Koodi vilkuttaa ledejeä punainen -> keltainen -> vihrea
 // Pause napista vilkutus loppuu ja uudelleen painettaessa jatkuu
 // 2-4 (koodissa 1-3) napit pistävät punaisen, keltaisen ja vihrean päälle ja samasta napista sammuvat. 
-//Nappi 5 vilkuttaa keltaista valoa, kunnos nappia painetaan uudestaan.
+//Nappi 5 vilkuttaa keltaista valoa, kunnes nappia painetaan uudestaan.
 
 
 #include <zephyr/kernel.h>
